@@ -1,5 +1,5 @@
 #include <iostream>
-#include "LR5_part2.h"
+#include "Vasileva_MathTask.h"
 
 using namespace std;
 
