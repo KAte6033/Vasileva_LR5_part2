@@ -13,12 +13,6 @@ int main ()
     EnterDigit(p, "Введите P: ");
     cout << "P: " << p << endl;
 
-    // // Введём q
-    // InputQ (q);
-
-    // // Введём p
-    // InputP(p);
-
     // найти остаток от деления Q на P
     int mod = modQonP(q, p);
     cout << "Остаток от деления " << q << " на " << p << " = " << mod << endl;
@@ -34,4 +28,5 @@ int main ()
     // int area = Area(length, width);
 
     // cout << "Площадь прямоугольника: " << area << endl;
+    return 0;
 }
